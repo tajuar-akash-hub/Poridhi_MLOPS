@@ -1,5 +1,8 @@
-# Virtual Environment
-venv/
-env/
-ENV/
-# Or, the name of your Virtual Environment
+numpy
+pandas
+scikit-learn
+joblib
+requests
+pytest
+matplotlib
+seaborn

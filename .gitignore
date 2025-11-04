@@ -1,2 +1,5 @@
-numpy
-pandas
+# Virtual Environment
+venv/
+env/
+ENV/
+# Or, the name of your Virtual Environment
